@@ -5,6 +5,8 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
+using AutoMapper;
+using InventManagement.Client.Web.Mapping;
 
 namespace InventManagement.Client.Web
 {
@@ -12,6 +14,11 @@ namespace InventManagement.Client.Web
     {
         protected void Application_Start()
         {
+            // Automapper configurations.
+            Mapper.Initialize(config => {
+                config.AddProfile<InventoryPartMappingProfile>();                
+            });
+
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
