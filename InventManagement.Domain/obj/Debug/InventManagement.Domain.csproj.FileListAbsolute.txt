@@ -1,0 +1,9 @@
+E:\Australia\Projects\InventManagement\InventManagement.Domain\bin\Debug\InventManagement.Domain.dll.config
+E:\Australia\Projects\InventManagement\InventManagement.Domain\bin\Debug\InventManagement.Domain.dll
+E:\Australia\Projects\InventManagement\InventManagement.Domain\bin\Debug\InventManagement.Domain.pdb
+E:\Australia\Projects\InventManagement\InventManagement.Domain\bin\Debug\EntityFramework.dll
+E:\Australia\Projects\InventManagement\InventManagement.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Australia\Projects\InventManagement\InventManagement.Domain\bin\Debug\EntityFramework.xml
+E:\Australia\Projects\InventManagement\InventManagement.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Australia\Projects\InventManagement\InventManagement.Domain\obj\Debug\InventManagement.Domain.dll
+E:\Australia\Projects\InventManagement\InventManagement.Domain\obj\Debug\InventManagement.Domain.pdb
